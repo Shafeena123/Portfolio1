@@ -297,6 +297,8 @@ p {
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
+	height: 20vw;
+	width: 70vh;
 }
 #services .service-item::after {
 	content: '';
